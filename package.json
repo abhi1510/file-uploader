@@ -1,0 +1,10 @@
+{
+  "name": "file-upload-server",
+  "version": "1.0.0",
+  "author": "Abhinav Kumar",
+  "description": "This app is created for uploading file to the server",
+  "dependencies": {
+    "express": "latest",
+    "formidable": "^1.1.1"
+  }
+}
